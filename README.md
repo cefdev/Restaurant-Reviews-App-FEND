@@ -9,10 +9,10 @@ This is the last project from Udacity Front-End Web Developer Nanodegree program
 
 These are simply the instructions Udacity as provided below to get the application running on a simple Python based server, and then get it opened in a browser. Assuming Python is on your system path, navigate to main folder of the project you downloaded or cloned above and do the following:
 1. Navigate to the main project folder and run the following in your terminal:
-..* Python2.x: python -m SimpleHTTPServer 8000
-..* Python3.x: python3 -m http.server 8000
+- Python2.x: python -m SimpleHTTPServer 8000
+- Python3.x: python3 -m http.server 8000
 2. Open a browser such as Chrome or FireFox to:
-..* http://localhost:8000
+- http://localhost:8000
 
 
 ### Technologies used
